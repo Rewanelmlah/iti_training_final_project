@@ -1,16 +1,6 @@
-# nnews
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##iti_final_project
+This is my final project in iti summer training, 
+which is a news application, in which I used onboarding screens and Firebase authentication,
+and I got the information that was displayed within the application through Api,
+and GetX was also relied on as state management. 
+There is a screen to display news and another screen to search for news related to a specific word and a screen for the profile.
